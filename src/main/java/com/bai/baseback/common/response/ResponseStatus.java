@@ -1,4 +1,4 @@
-package com.bai.baseback.response;
+package com.bai.baseback.common.response;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
